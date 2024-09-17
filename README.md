@@ -30,7 +30,7 @@ This Python script serves as a lightweight demonstration model, offering a simpl
 Random Forest Classifier used to make predictions based on latitude and longitude data.
 Ability to input latitude and longitude interactively for real-time prediction.
 The model outputs whether there is a risk of a GLOF at the given location.
-3. outputt.csv (Not Included)
+3. outputt.csv
 The .csv file, containing processed data for the training of the model in main.py
 Model Overview
 Algorithm:
