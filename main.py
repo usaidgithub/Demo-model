@@ -5,7 +5,7 @@ from sklearn.ensemble import RandomForestClassifier
 from sklearn.metrics import accuracy_score, classification_report
 
 
-csv_path = r'Your csv file path here'
+csv_path = r'your outputt.csv file path here'
 df = pd.read_csv(csv_path)
 
 print("First few rows of the dataset:")
